@@ -1,2 +1,1 @@
-# Task 1
-Cyber Security Internship Task 1
+Task 1 – Vulnerability Assessment Report
